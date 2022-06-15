@@ -1,0 +1,4 @@
+yfinance
+prophet-prebuilt
+plot_plotly
+graph_objs 
