@@ -1,3 +1,5 @@
+streamlit
+date
 yfinance
 prophet-prebuilt
 plot_plotly
