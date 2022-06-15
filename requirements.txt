@@ -1,6 +1,5 @@
-streamlit
-date
-yfinance
-prophet-prebuilt
-plot_plotly
-graph_objs 
+streamlit==1.9.0
+date==0.4
+yfinance==0.1.70
+prophet-prebuilt==1.0.2
+plotly==5.8.0
